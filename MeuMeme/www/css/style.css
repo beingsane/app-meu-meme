@@ -1,0 +1,25 @@
+/* Empty. Add your own CSS if you like */
+
+#templateCamera {
+	font-size: 200px;
+	color: #ccc;
+	text-align: center;
+	margin-top: 50%;
+}
+#textoimagemTopo {
+	position: absolute;
+	top: 30px;
+}
+#textoimagemRodape {
+	position: absolute;
+	bottom: 50px;	
+}
+.textImagem {
+	text-align: center;
+	font-weight: 800;
+	color: #fff;
+	text-shadow: 4px 0 0 #000, -4px 0 0 #000, 0 4px 0 #000, 0 -4px 0 #000, 4px 4px #000, -4px -4px 0 #000, 4px -4px 0 #000, -4px 4px 0 #000;
+	text-transform: uppercase;
+	padding-left: 8px;
+	padding-right: 8px;
+}
